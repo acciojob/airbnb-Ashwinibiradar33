@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.UUID;
 
 @Service
-public class HotelManagmentService {
+public class HotelManagementService {
 
 
     HotelManagementRepository repositoryObj = new HotelManagementRepository();
